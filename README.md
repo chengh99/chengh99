@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 
-I'm passionate about building **enterprise-grade AI applications** with a focus on **biomanufacturing**, **process intelligence**, and **resilient informatics integrations**. My work bridges the gap between cutting-edge AI and real-world enterprise challenges, driving innovative solutions that optimize processes and deliver tangible value.
+I'm passionate about building **enterprise-grade AI applications** with a focus on **biomanufacturing**, **process intelligence**, and **resilient informatics integrations**. 
+
+As a serial entrepreneur with two exits, I focus on building practical AI products that can demonstrate real business value, along with the product-first roadmap for sustainble growth. My work bridges the gap between cutting-edge AI and real-world enterprise challenges, driving innovative solutions that optimize processes and deliver tangible value.
 
 ---
 
