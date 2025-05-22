@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Cheng!
 
-<!--
-**chengh99/chengh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm passionate about building **enterprise-grade AI applications** with a focus on **biomanufacturing**, **process intelligence**, and **resilient informatics integrations**. My work bridges the gap between cutting-edge AI and real-world enterprise challenges, driving innovative solutions that optimize processes and deliver tangible value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Core Expertise
+
+- **Enterprise Architecture**
+- **Knowledge Graphs & Data Integration**
+- **Deep Learning & Reinforcement Learning (TensorFlow, Custom AI Models)**
+- **Cloud Platforms:** AWS, GCP, Azure, Snowflake, Databricks
+- **Process Optimization & Intelligence**
+
+---
+
+## 💡 What I Do
+
+- Architect robust, scalable AI-driven systems for complex industrial and scientific environments
+- Design knowledge graphs to unlock hidden insights from enterprise data
+- Build and deploy advanced deep learning and reinforcement learning models
+- Integrate, automate, and optimize data pipelines across heterogeneous cloud platforms
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://linkedin.com/chengh99)
+
+---
+
+## 🔥 Fun Fact
+
+When I'm not optimizing processes or designing AI architectures, you'll find me perfecting the food science and art of **BBQ**!
+
+---
+
+## 🤝 Open for Opportunities
+
+Interested in **fractional AI consulting**?  
+Let’s collaborate to accelerate your organization's AI journey!
+
